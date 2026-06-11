@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "6a2953f68d0c5a8f985c743c"
+  },
+  "fullName": "Admin",
+  "email": "admin@gmail.com",
+  "phone": "9999999999",
+  "password": "$2b$10$wIbB0N/0uFUc/zlo6G1sRuzfe4tCoQLvoCPClp6YbwNbxbi2MRMdC",
+  "role": "admin",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2026-06-10T12:09:26.588Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T12:09:26.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2956da765bc2f8b467cefd"
+  },
+  "fullName": "Aman",
+  "email": "aman@gmail.com",
+  "phone": "9876543210",
+  "password": "$2b$10$pkh2c0CrWie6bDGXc1xXjeintymxTeZsA4iNDaq.yUlDP0DtdHUSG",
+  "role": "customer",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2026-06-10T12:21:46.379Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T12:21:46.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a295eafc7af28380bc012cd"
+  },
+  "fullName": "Ravi",
+  "email": "ravi@gmail.com",
+  "phone": "9876543210",
+  "password": "$2b$10$s6CEurp2/2DWwZ/.syAtfu7lBeJoj1puatt7R4dR0t0Xrjd9sz0Ti",
+  "role": "customer",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2026-06-10T12:55:11.226Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T12:55:11.226Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "6a2953f68d0c5a8f985c743d"
+  },
+  "user": {
+    "$oid": "6a2953f68d0c5a8f985c743c"
+  },
+  "accountNumber": "ACC2757146953",
+  "balance": 0,
+  "accountType": "Savings",
+  "createdAt": {
+    "$date": "2026-06-10T12:09:26.657Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T12:09:26.657Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2956da765bc2f8b467cefe"
+  },
+  "user": {
+    "$oid": "6a2956da765bc2f8b467cefd"
+  },
+  "accountNumber": "ACC1017048967",
+  "balance": 5000,
+  "accountType": "Savings",
+  "createdAt": {
+    "$date": "2026-06-10T12:21:46.458Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-11T12:21:24.847Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a295eafc7af28380bc012ce"
+  },
+  "user": {
+    "$oid": "6a295eafc7af28380bc012cd"
+  },
+  "accountNumber": "ACC9978037714",
+  "balance": 6500,
+  "accountType": "Savings",
+  "createdAt": {
+    "$date": "2026-06-10T12:55:11.308Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T17:57:14.985Z"
+  },
+  "__v": 0
+}]

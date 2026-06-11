@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "6a29a4e7199ca7743a03ab6d"
+  },
+  "user": {
+    "$oid": "6a2956da765bc2f8b467cefd"
+  },
+  "amount": 10000,
+  "tenure": 24,
+  "interestRate": 12,
+  "emi": 470.73,
+  "status": "approved",
+  "createdAt": {
+    "$date": "2026-06-10T17:54:47.664Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T20:02:51.858Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a29c04ea417f2dda66ce70f"
+  },
+  "user": {
+    "$oid": "6a2953f68d0c5a8f985c743c"
+  },
+  "amount": 15000,
+  "tenure": 24,
+  "interestRate": 12,
+  "emi": 706.1,
+  "status": "approved",
+  "createdAt": {
+    "$date": "2026-06-10T19:51:42.446Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T19:54:30.894Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a29c72bebb3a0a01a8b4f31"
+  },
+  "user": {
+    "$oid": "6a2956da765bc2f8b467cefd"
+  },
+  "amount": 20000,
+  "tenure": 18,
+  "interestRate": 12,
+  "emi": 1219.64,
+  "status": "approved",
+  "createdAt": {
+    "$date": "2026-06-10T20:20:59.200Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T20:21:51.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a29d405e8baba04e479777a"
+  },
+  "user": {
+    "$oid": "6a2956da765bc2f8b467cefd"
+  },
+  "amount": 32000,
+  "tenure": 18,
+  "interestRate": 12,
+  "emi": 1951.43,
+  "status": "rejected",
+  "createdAt": {
+    "$date": "2026-06-10T21:15:49.619Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T21:24:46.036Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a29e4cf4e2c5015c2062012"
+  },
+  "user": {
+    "$oid": "6a2956da765bc2f8b467cefd"
+  },
+  "amount": 345,
+  "tenure": 12,
+  "interestRate": 12,
+  "emi": 30.65,
+  "status": "approved",
+  "createdAt": {
+    "$date": "2026-06-10T22:27:27.693Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T22:27:40.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2abbecadd8f63775c24139"
+  },
+  "user": {
+    "$oid": "6a2956da765bc2f8b467cefd"
+  },
+  "amount": 10000,
+  "tenure": 24,
+  "interestRate": 12,
+  "emi": 470.73,
+  "status": "pending",
+  "createdAt": {
+    "$date": "2026-06-11T13:45:16.632Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-11T13:45:16.632Z"
+  },
+  "__v": 0
+}]

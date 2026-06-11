@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "6a29e4dc4e2c5015c2062013"
+  },
+  "user": {
+    "$oid": "6a2956da765bc2f8b467cefd"
+  },
+  "message": "✅ Your loan has been approved",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-06-10T22:27:40.355Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T22:27:40.355Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2aa822001c699179a4f203"
+  },
+  "user": {
+    "$oid": "6a2956da765bc2f8b467cefd"
+  },
+  "message": "⚠️ Your account balance has reached ₹0",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-06-11T12:20:50.913Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-11T12:20:50.913Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "6a29e86c282506e5885c707a"
+  },
+  "sender": {
+    "$oid": "6a2956da765bc2f8b467cefd"
+  },
+  "receiver": {
+    "$oid": "6a2953f68d0c5a8f985c743c"
+  },
+  "message": "hey admin",
+  "createdAt": {
+    "$date": "2026-06-10T22:42:52.622Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T22:42:52.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a29eda8e67a1705ae2434a5"
+  },
+  "sender": {
+    "$oid": "6a2956da765bc2f8b467cefd"
+  },
+  "receiver": {
+    "$oid": "6a2953f68d0c5a8f985c743c"
+  },
+  "message": "hii",
+  "createdAt": {
+    "$date": "2026-06-10T23:05:12.164Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T23:05:12.164Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a29edbee67a1705ae2434a6"
+  },
+  "sender": {
+    "$oid": "6a2953f68d0c5a8f985c743c"
+  },
+  "receiver": {
+    "$oid": "6a2956da765bc2f8b467cefd"
+  },
+  "message": "hi! Aman",
+  "createdAt": {
+    "$date": "2026-06-10T23:05:34.167Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T23:05:34.167Z"
+  },
+  "__v": 0
+}]

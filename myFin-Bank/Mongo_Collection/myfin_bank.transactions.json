@@ -1,0 +1,147 @@
+[{
+  "_id": {
+    "$oid": "6a296219f21a32e725e2decc"
+  },
+  "transactionId": "TXN1781096985966",
+  "receiver": {
+    "$oid": "6a2956da765bc2f8b467cefd"
+  },
+  "amount": 5000,
+  "type": "deposit",
+  "createdAt": {
+    "$date": "2026-06-10T13:09:45.968Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T13:09:45.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a29627ff21a32e725e2decd"
+  },
+  "transactionId": "TXN1781097087557",
+  "sender": {
+    "$oid": "6a2956da765bc2f8b467cefd"
+  },
+  "amount": 1000,
+  "type": "withdraw",
+  "createdAt": {
+    "$date": "2026-06-10T13:11:27.558Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T13:11:27.558Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a29a3224c4e2c904dfc8a5e"
+  },
+  "transactionId": "TXN1781113634376",
+  "receiver": {
+    "$oid": "6a2956da765bc2f8b467cefd"
+  },
+  "amount": 400,
+  "type": "deposit",
+  "createdAt": {
+    "$date": "2026-06-10T17:47:14.379Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T17:47:14.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a29a3414c4e2c904dfc8a5f"
+  },
+  "transactionId": "TXN1781113665661",
+  "receiver": {
+    "$oid": "6a2956da765bc2f8b467cefd"
+  },
+  "amount": 5000,
+  "type": "deposit",
+  "createdAt": {
+    "$date": "2026-06-10T17:47:45.661Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T17:47:45.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a29a524199ca7743a03ab6e"
+  },
+  "transactionId": "TXN1781114148626",
+  "receiver": {
+    "$oid": "6a295eafc7af28380bc012cd"
+  },
+  "amount": 5000,
+  "type": "deposit",
+  "createdAt": {
+    "$date": "2026-06-10T17:55:48.627Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T17:55:48.627Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a29a57b199ca7743a03ab6f"
+  },
+  "transactionId": "TXN1781114235043",
+  "sender": {
+    "$oid": "6a295eafc7af28380bc012cd"
+  },
+  "receiver": {
+    "$oid": "6a295eafc7af28380bc012cd"
+  },
+  "amount": 1500,
+  "type": "transfer",
+  "createdAt": {
+    "$date": "2026-06-10T17:57:15.044Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-10T17:57:15.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2aa827001c699179a4f204"
+  },
+  "transactionId": "TXN1781180455180",
+  "sender": {
+    "$oid": "6a2956da765bc2f8b467cefd"
+  },
+  "amount": 9400,
+  "type": "withdraw",
+  "createdAt": {
+    "$date": "2026-06-11T12:20:55.181Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-11T12:20:55.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2aa844001c699179a4f205"
+  },
+  "transactionId": "TXN1781180484980",
+  "receiver": {
+    "$oid": "6a2956da765bc2f8b467cefd"
+  },
+  "amount": 5000,
+  "type": "deposit",
+  "createdAt": {
+    "$date": "2026-06-11T12:21:24.981Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-11T12:21:24.981Z"
+  },
+  "__v": 0
+}]
